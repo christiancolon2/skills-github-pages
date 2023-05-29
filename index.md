@@ -2,3 +2,12 @@
 title: Welcome to my blog
 ---
 
+---
+author: Christian Colon
+---
+
+---
+description: This is a test site
+---
+
+theme: minima
