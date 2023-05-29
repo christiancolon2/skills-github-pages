@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to My GitHub Page!
+
 
 This is a sample GitHub page created using Markdown. Here you can write about yourself, showcase your projects, or provide any other relevant information.
 
